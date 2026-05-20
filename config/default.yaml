@@ -1,0 +1,23 @@
+TARGET_FOLDER: "test-folder"
+
+FILE_CATEGORIES:
+  Images:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".gif"
+    - ".webp"
+
+  Videos:
+    - ".mp4"
+    - ".mkv"
+    - ".avi"
+    - ".mov"
+
+  PDFs:
+    - ".pdf"
+
+  Music:
+    - ".mp3"
+    - ".wav"
+    - ".aac"
